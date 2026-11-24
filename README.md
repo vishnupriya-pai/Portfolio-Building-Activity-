@@ -6,8 +6,8 @@ Portfolio Building repository for engineering activities (Course Code: B25CS0311
 
 ## Activity 5: Collaboration Log
 
-- **Pairing Partner**: Bhoomika Navalyal ([@bnavalyal](https://github.com/bnavalyal))
-- **Host / Author**: Vishnupriya Pai ([@vishnupriya-pai](https://github.com/vishnupriya-pai))
+- **Student / Developer**: Vishnupriya Pai (Roll No: R25EI057, [@vishnupriya-pai](https://github.com/vishnupriya-pai))
+- **Collaboration Setup**: Paired Programming via VS Code Live Share & GitLens
 - **Task Built Together**: Extended the `hello.c` program by collaboratively designing, writing, and testing a `greet(const char *name)` function that prints a personalized welcome greeting alongside the standard Hello World output.
 - **Key Takeaways & Learning**:
   - **Live Share**: Enabled real-time collaborative paired programming where both driver and navigator could seamlessly swap roles, share terminals, and debug code simultaneously without desynchronizing local environments.
